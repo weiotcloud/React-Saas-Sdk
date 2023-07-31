@@ -61,7 +61,7 @@ yarn weiot
 # Start build an app
 
 ```bash
-yarn serve
+yarn start 
 ```
 
  
