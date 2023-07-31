@@ -57,6 +57,13 @@ yarn weiot
   4) Build on Production Mode
 ```
 
+
+# Start build an app
+
+```bash
+yarn serve
+```
+
  
 ### FEATURES
 
