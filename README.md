@@ -2,18 +2,7 @@
 
 
 ![](https://cdn.weiot.cloud//UP64a35f1ca4e40.png)
-
-![](https://img.shields.io/github/stars/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/forks/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/tag/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/release/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/issues/Weiot-Cloud/Microfrontend-Module-Kit.svg)
-
-
-
-
-
-
-
-
-
-
+  
  
 # Requirements
 
