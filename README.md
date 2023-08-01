@@ -1,9 +1,59 @@
-# Editor.md
+# WeIOT React SDK
+
 
 ![](https://cdn.weiot.cloud//UP64a35f1ca4e40.png)
+  
+ 
+# Requirements
 
-![](https://img.shields.io/github/stars/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/forks/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/tag/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/release/Weiot-Cloud/Microfrontend-Module-Kit.svg) ![](https://img.shields.io/github/issues/Weiot-Cloud/Microfrontend-Module-Kit.svg)
+1. NodeJS 16+
+2. Yarn or Npm Manager (Yarn is recommended)
 
+# Installation
+
+```bash
+yarn install
+```
+
+```bash
+yarn weiot
+```
+
+# WeIOT Cli
+
+```bash
+
+ ██╗    ██╗ ███████╗ ██╗  ██████╗  ████████╗
+ ██║    ██║ ██╔════╝ ██║ ██╔═══██╗ ╚══██╔══╝
+ ██║ █╗ ██║ █████╗   ██║ ██║   ██║    ██║   
+ ██║███╗██║ ██╔══╝   ██║ ██║   ██║    ██║   
+ ╚███╔███╔╝ ███████╗ ██║ ╚██████╔╝    ██║   
+  ╚══╝╚══╝  ╚══════╝ ╚═╝  ╚═════╝     ╚═╝   
+
+ ██████╗  ███████╗  █████╗   ██████╗ ████████╗      ██████╗ ██╗      ██╗ ██╗
+ ██╔══██╗ ██╔════╝ ██╔══██╗ ██╔════╝ ╚══██╔══╝     ██╔════╝ ██║      ██║ ██║
+ ██████╔╝ █████╗   ███████║ ██║         ██║        ██║      ██║      ██║ ██║
+ ██╔══██╗ ██╔══╝   ██╔══██║ ██║         ██║        ██║      ██║      ██║ ╚═╝
+ ██║  ██║ ███████╗ ██║  ██║ ╚██████╗    ██║        ╚██████╗ ███████╗ ██║ ██╗
+ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝  ╚═════╝    ╚═╝         ╚═════╝ ╚══════╝ ╚═╝ ╚═╝
+
+ ? What do you want to do? 
+  1) Create Webpack Config
+   ──────────────
+  2) Remove Build Folder
+   ──────────────
+  3) Build on Development Mode
+  4) Build on Production Mode
+```
+
+
+# Start build an app
+
+```bash
+yarn start 
+```
+
+ 
 ### FEATURES
 
 1. Employer Actions
